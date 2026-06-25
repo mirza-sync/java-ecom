@@ -31,6 +31,16 @@
       "projectName": "customer",
       "args": "",
       "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ProductApplication<product>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.mirza.ecom.ProductApplication",
+      "projectName": "product",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
     }
   ]
 }
