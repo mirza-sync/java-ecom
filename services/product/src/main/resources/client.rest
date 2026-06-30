@@ -1,0 +1,4 @@
+GET http://localhost:8050/api/v1/products
+
+###
+GET http://localhost:8050/api/v1/products/301
