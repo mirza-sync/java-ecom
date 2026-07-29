@@ -14,7 +14,6 @@ import org.springframework.web.client.RestTemplate;
 
 import com.mirza.ecom.exception.BusinessException;
 
-import jakarta.ws.rs.POST;
 import lombok.RequiredArgsConstructor;
 
 @Service
